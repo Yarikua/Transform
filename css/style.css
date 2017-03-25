@@ -8,8 +8,8 @@ img{
     transform: rotate(20deg);
 }
 /*przesuniencie*/
-translate img{
-    transform: translate(500px, 100px);
+.translate img{
+    transform: translate(100px, 100px);
 }
 /*skalowanie*/
 .scale img{
@@ -21,7 +21,6 @@ translate img{
     animation-duration: 2s;
     animation-iteration-count: infinite;
 }
-
 @keyframes resize{
     0%, 100%{
         height: 300px;
