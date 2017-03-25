@@ -1,0 +1,9 @@
+img{
+    height: 300px;
+    margin-bottom: 300px;
+}
+
+/*Obrot*/
+.rotate img{
+    transform: rotate(20deg);
+}
